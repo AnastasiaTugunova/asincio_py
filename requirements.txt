@@ -1,0 +1,9 @@
+psycopg2-binary
+asyncpg
+sqlalchemy==1.4.0
+config
+aiopg
+aiohttp
+requests
+more_itertools
+python-dotenv
